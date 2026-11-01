@@ -17,8 +17,8 @@
 ## 🛠️ Tech Stack & Architecture
  - JavaScript
  - Tailwindcss v4
- - vite
- - react
+ - Next.js App Router
+ - React
 
 
 
@@ -51,7 +51,7 @@ Ensure you have [Node.js](https://nodejs.org) installed (v18 or higher recommend
    ```bash
    pnpm run dev
    ```
-   Open `http://localhost:5173/` in your browser to test the local build.
+   Open `http://localhost:3000/` in your browser to test the local build.
 
 ## 🤝 Contributing
 
